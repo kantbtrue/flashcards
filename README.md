@@ -18,6 +18,7 @@ yarn install
 # Start server
 expo start
 ```
+## Tested On Android
 
 ## Backend server
 Provided by Udacity
